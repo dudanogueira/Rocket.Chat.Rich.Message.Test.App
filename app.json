@@ -1,0 +1,16 @@
+{
+    "id": "b2bde595-6966-47bb-a44f-0cc53355e806",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Duda Nogueira",
+        "homepage": "http://github.com/dudanogueira",
+        "support": "http://github.com/dudanogueira"
+    },
+    "name": "Rich Message Test App",
+    "nameSlug": "rich-message-test-app",
+    "classFile": "RichMessageTestAppApp.ts",
+    "description": "Outputs Rich Messages for Testing",
+    "implements": []
+}
